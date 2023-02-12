@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<!-- saved from url=(0051)http://127.0.0.1:5500/Personal%20Website/index.html -->
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    
+    <title>R.H.F Rabbi</title>
+    <link rel="stylesheet" href="./R.H.F Rabbi_files/my site.css">
+    <link rel="shortcut icon" href="http://127.0.0.1:5500/Personal%20Website/favicon.ico" type="image/x-icon">
+    <link rel="preconnect" href="https://fonts.googleapis.com/">
+    <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin="">
+    <link href="./R.H.F Rabbi_files/css2" rel="stylesheet">
+<meta name="viewport" content="width=device-width, initial-scale=1"></head>
+<body>
+    <div class="top-container" data-pf_style_display="block" data-pf_style_visibility="visible">
+        <img class="img1" src="./R.H.F Rabbi_files/cloud.png" alt="cloud-image" data-pf_style_display="block" data-pf_style_visibility="visible" data-pf_rect_width="100" data-pf_rect_height="80">
+        <h1 class="name" data-pf_style_display="block" data-pf_style_visibility="visible">I'm fojle</h1>
+        <h2 data-pf_style_display="block" data-pf_style_visibility="visible">a programmer</h2>
+        <img class="img2" src="./R.H.F Rabbi_files/cloud.png" alt="cloud-image" data-pf_style_display="block" data-pf_style_visibility="visible" data-pf_rect_width="100" data-pf_rect_height="80">
+        <img class="img3 pf-large-image" src="./R.H.F Rabbi_files/mountain.png" alt="mountain-image" data-pf_style_display="inline" data-pf_style_visibility="visible" data-pf_rect_width="800" data-pf_rect_height="450">
+    </div>
+    <div class="middle-container" data-pf_style_display="block" data-pf_style_visibility="visible">
+        <div class="profile" data-pf_style_display="block" data-pf_style_visibility="visible">
+          <img class="profile-p pf-large-image" src="./R.H.F Rabbi_files/profile.png" alt="profile-photo" data-pf_style_display="inline" data-pf_style_visibility="visible" data-pf_rect_width="342.890625" data-pf_rect_height="342.890625">
+          <h2 data-pf_style_display="block" data-pf_style_visibility="visible">Hello.</h2>
+          <p class="intro" data-pf_style_display="block" data-pf_style_visibility="visible">I am a undergraduate Studnet in CUET.My department name is CSE. My goal is a goal. I ❤️ coffe and driving bike.</p>
+        </div>
+        <hr data-pf_style_display="block" data-pf_style_visibility="visible">
+        <div class="skills" data-pf_style_display="block" data-pf_style_visibility="visible">
+          <h2 data-pf_style_display="block" data-pf_style_visibility="visible">My Skills.</h2>
+          <div class="skill-row" data-pf_style_display="block" data-pf_style_visibility="visible">
+            <img class="s-img1" src="./R.H.F Rabbi_files/skill1.gif" alt="" data-pf_style_display="block" data-pf_style_visibility="visible" data-pf_rect_width="238.125" data-pf_rect_height="172.640625">
+            <h3 data-pf_style_display="block" data-pf_style_visibility="visible">Programming</h3>
+            <p data-pf_style_display="block" data-pf_style_visibility="visible">I started learning coding in versity life because i love to solve problem.I can solve any basic problem with c++. I also can design and implement desktop application using java swing</p>
+          </div>
+          <div class="skill-row" data-pf_style_display="block" data-pf_style_visibility="visible">
+            <img class="s-img2" src="./R.H.F Rabbi_files/skill2.gif" alt="" data-pf_style_display="block" data-pf_style_visibility="visible" data-pf_rect_width="238.125" data-pf_rect_height="238.125">
+            <h3 data-pf_style_display="block" data-pf_style_visibility="visible">Bike Driving</h3>
+            <p data-pf_style_display="block" data-pf_style_visibility="visible">One of the major skill of mine is driving Bike❤️. I love to drive Bike very much.During free time i go to long drive with my beloved friends.</p>
+          </div>
+        </div>
+        <hr data-pf_style_display="block" data-pf_style_visibility="visible">
+        <div class="contact-me" data-pf_style_display="block" data-pf_style_visibility="visible">
+          <h2 data-pf_style_display="block" data-pf_style_visibility="visible">Get In Touch</h2>
+          <h3 data-pf_style_display="block" data-pf_style_visibility="visible">If you love coffe as much as i do</h3>
+          <p data-pf_style_display="block" data-pf_style_visibility="visible">Love coffe as much as i do? Let's talk about our experiences.<br data-pf_style_display="inline" data-pf_style_visibility="visible"> We can code while we taking coffe.</p>
+          <a class="btn" href="mailto:name@email.com" data-pf_style_display="inline" data-pf_style_visibility="visible">CONTACT ME</a>
+        </div>
+      </div>
+      
+      
+      <div class="bottom-container" data-pf_style_display="block" data-pf_style_visibility="visible">
+        <a class="footer-link" href="https://www.linkedin.com/in/fojly-rabbi-523467206/" data-pf_style_display="inline" data-pf_style_visibility="visible">LinkedIn</a>
+        <a class="footer-link" href="https://www.facebook.com/frabby.bics" data-pf_style_display="inline" data-pf_style_visibility="visible">Facebook</a>
+        <a class="footer-link" href="https://www.instagram.com/frabbybics10/" data-pf_style_display="inline" data-pf_style_visibility="visible">Instagram</a>
+        <p class="copyright" data-pf_style_display="block" data-pf_style_visibility="visible">© 2023 Md. R.H.F Rabbi @ CUET.</p>
+      </div>
+<!-- Code injected by live-server -->
+<script data-pf_style_display="none" data-pf_style_visibility="visible" class="hidden-originally">
+	// <![CDATA[  <-- For SVG support
+	if ('WebSocket' in window) {
+		(function () {
+			function refreshCSS() {
+				var sheets = [].slice.call(document.getElementsByTagName("link"));
+				var head = document.getElementsByTagName("head")[0];
+				for (var i = 0; i < sheets.length; ++i) {
+					var elem = sheets[i];
+					var parent = elem.parentElement || head;
+					parent.removeChild(elem);
+					var rel = elem.rel;
+					if (elem.href && typeof rel != "string" || rel.length == 0 || rel.toLowerCase() == "stylesheet") {
+						var url = elem.href.replace(/(&|\?)_cacheOverride=\d+/, '');
+						elem.href = url + (url.indexOf('?') >= 0 ? '&' : '?') + '_cacheOverride=' + (new Date().valueOf());
+					}
+					parent.appendChild(elem);
+				}
+			}
+			var protocol = window.location.protocol === 'http:' ? 'ws://' : 'wss://';
+			var address = protocol + window.location.host + window.location.pathname + '/ws';
+			var socket = new WebSocket(address);
+			socket.onmessage = function (msg) {
+				if (msg.data == 'reload') window.location.reload();
+				else if (msg.data == 'refreshcss') refreshCSS();
+			};
+			if (sessionStorage && !sessionStorage.getItem('IsThisFirstTime_Log_From_LiveServer')) {
+				console.log('Live reload enabled.');
+				sessionStorage.setItem('IsThisFirstTime_Log_From_LiveServer', true);
+			}
+		})();
+	}
+	else {
+		console.error('Upgrade your browser. This Browser is NOT supported WebSocket for Live-Reloading.');
+	}
+	// ]]>
+</script>
+
+</body></html>
